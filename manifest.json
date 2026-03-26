@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "network pings",
+  "version": "1.0",
+  "description": "plays ping sounds based on incoming/outgoing network activity",
+  "permissions": ["webRequest", "offscreen"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Network Sound Controller"
+  }
+}
