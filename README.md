@@ -5,4 +5,4 @@ an early iteration of a browser extension that makes little pinging noises whene
 each ping represents a network request or response by the site you're viewing. outgoing requests use a higher frequency and incoming requests sound lower. some sites are loud. some sites are quiet. why?
 
 ## the team 
-giana, marie, [taylor](https://taylorbotts.com/), and zoe, with help from alice, cherry, and daniel
+[giana](https://gigisrevenge.github.io), marie, [taylor](https://taylorbotts.com/), and zoe, with help from alice, cherry, and daniel
